@@ -1,0 +1,25 @@
+{
+  "title": "mcp-security-checklist",
+  "description": "A bilingual (EN+TR) MCP security hardening checklist mapped to OWASP LLM Top 10 & MITRE ATLAS.",
+  "creators": [
+    {
+      "name": "Yurtsevenler, Fevzi Ege",
+      "affiliation": "AltaySec"
+    }
+  ],
+  "keywords": [
+    "LLM security",
+    "AI security",
+    "prompt injection",
+    "agent security",
+    "OWASP LLM Top 10",
+    "MCP",
+    "checklist",
+    "hardening",
+    "MITRE ATLAS"
+  ],
+  "license": "CC-BY-4.0",
+  "upload_type": "publication",
+  "access_right": "open",
+  "publication_type": "report"
+}
