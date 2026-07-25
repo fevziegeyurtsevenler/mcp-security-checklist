@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="mcp-security-checklist" width="100%"></p>
+
 # 🛡️ mcp-security-checklist
 
 > A practical, copy-pasteable hardening checklist for building, installing, and operating **Model Context Protocol (MCP)** servers and client configs — bilingual **English + Türkçe**.
