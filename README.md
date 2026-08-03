@@ -260,3 +260,21 @@ Issues and PRs are welcome — new checklist items must include a **why** and an
 ## License
 
 [MIT](LICENSE) — use it, fork it, ship it. No warranty; this checklist reduces risk but does not certify security.
+
+---
+
+## İlgili AltaySec Kaynakları
+
+- 📖 [MCP Sunucusu Güvenlik İncelemesi: Yetkiden Tool Çağrısına](https://altaysec.com.tr/arastirmalar/mcp-sunucusu-guvenlik-incelemesi) — konunun derinlemesine Türkçe analizi
+- 🌐 [AltaySec Araştırmalar](https://altaysec.com.tr/arastirmalar/) — Türkçe yapay zekâ güvenliği yazıları
+
+## Atıf
+
+```bibtex
+@software{altaysec_mcp_security_checklist_2026,
+  author = {{AltaySec}},
+  title  = {mcp-security-checklist},
+  year   = {2026},
+  url    = {https://github.com/fevziegeyurtsevenler/mcp-security-checklist}
+}
+```
